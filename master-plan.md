@@ -168,11 +168,11 @@ Big Data lecture topics are a forecast (Moodle order); `BigData/semester-plan.md
 | Day | Time | Block | Say / do |
 |---|---|---|---|
 | **Tue 20** | 08:30–10:00 | **Inference 1A:** sums, products, logs (from the very beginning) | Inference repo → "Let's continue" |
-| | 10:15–11:45 | **Big Data catch-up:** slides `01a_orga` + `01b_ML_intro` (put them in `BigData/materials/`) | BigData repo → "Lecture review L1–L2" |
+| | 10:15–11:45 | **Big Data catch-up:** slides `01a_orga` + `01b_ML_intro` (in `BigData/materials/`) | BigData repo → "Lecture review L1–L2" |
 | | 12:45–14:15 | **German: level check** + G01 | German repo → "German: let's continue" |
-| | 15:00–15:45 | Big Data: skim today's slides (campus) | |
-| | 16:00–17:30 | **Big Data lecture 3** · ask: exam year? aids? R or Python? | |
-| | 17:45–18:30 | Big Data same-day review L3 | "Lecture review L3" |
+| | 14:30–15:15 | **Big Data lecture 3 = recording** (no class today, all day at home): `02a_recording_R_big_data_part2` (38 min). Pause, take notes, write down every question | |
+| | 15:30–16:15 | Big Data same-day review L3 (Claude can't watch the video: bring your notes) | "Lecture review L3" |
+| | 16:30–17:30 | FLEX: finish whatever ran over today; if nothing is left, start Big Data F01 | |
 | **Wed 21** | 07:30–10:30 | Gym | |
 | | 11:00–12:30 | **Inference 1B:** derivatives, chain rule, maximum | |
 | | 13:30–15:00 | **Big Data sheet 1**, part 1 (out today) | "Sheet help" for hints |
@@ -182,7 +182,7 @@ Big Data lecture topics are a forecast (Moodle order); `BigData/semester-plan.md
 | | 10:00–11:30 | **Big Data F01 + F02:** vectors and matrices; Bayes (free tutorial slot) | "Foundations F01" |
 | | 11:30–12:15 | Big Data: re-derive L3 | |
 | | 13:00–14:00 | FLEX: Inference 1C, part 2 | |
-| | 14:15–15:45 | **Big Data lecture 4** | |
+| | 14:15–15:45 | **Big Data lecture 4** · ask: exam year? aids? R or Python? | |
 | | 16:00–16:45 | Big Data same-day review L4 | |
 | **Fri 23** | 07:30–10:30 | Gym | |
 | | 11:00–12:30 | **German practice** (G01) | "German practice" |
